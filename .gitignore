@@ -26,6 +26,7 @@ build/
 ios/
 test/
 .idea/
+flutter_env/
 
 # Miscellaneous
 *.class
